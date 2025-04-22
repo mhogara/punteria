@@ -1,2 +1,2 @@
 # punteria
-aim.
+la mira.
